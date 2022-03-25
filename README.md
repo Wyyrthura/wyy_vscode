@@ -1,2 +1,2 @@
 # wyy_vscode
-Manjaro Theme for Visual Studio Code
+**WORK IN PROGRESS, DO NOT USE IT**
